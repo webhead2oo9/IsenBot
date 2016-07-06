@@ -1,0 +1,29 @@
+{
+  "name": "isenbot",
+  "version": "1.0.0",
+  "description": "Discord Bot that uses Discordie",
+  "main": "bot.js",
+  "dependencies": {
+    "discordie": "^0.7.2",
+    "fs": "0.0.2",
+    "path": "^0.12.7",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomSawkins/IsenBot.git"
+  },
+  "keywords": [
+    "Discord"
+  ],
+  "author": "Thomas Sawkins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomSawkins/IsenBot/issues"
+  },
+  "homepage": "https://github.com/tomSawkins/IsenBot#readme"
+}
